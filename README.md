@@ -12,29 +12,29 @@ Aplikasi ini dikembangkan menggunakan **Laravel (PHP)** untuk sisi *backend* (pe
   - Menampilkan *banner* promosi yang menarik.
   - **Statistik Platform**: Dilengkapi dengan grafik (Bar Chart untuk persebaran jumlah menu, dan Line Chart untuk tren rating restoran) secara *real-time*.
 
-  ![Beranda Zymorix](screenshots/dashboard.png)
+  ![Beranda Zymorix](screenshots/dashboard.jpeg)
 
 - **Eksplorasi Restoran (`/restoran`)**:
   - Menampilkan daftar restoran dalam bentuk kartu (*cards*) yang rapi, memuat informasi rating, nama, lokasi, dan tipe masakan.
   - **Pencarian Cerdas**: Pengguna dapat mencari restoran berdasarkan nama atau kota tempat restoran berada.
 
-  ![Daftar Restoran Zymorix](screenshots/restoran.png)
+  ![Daftar Restoran Zymorix](screenshots/daftar_restoran.jpeg)
 
 - **Detail Restoran (`/restoran/{id}`)**:
   - Halaman khusus untuk setiap restoran yang menampilkan informasi lengkap dan seluruh daftar menu (Makanan/Minuman) yang tersedia di restoran tersebut.
 
-  ![Detail Restoran Zymorix](screenshots/detail-restoran.png)
+  ![Detail Restoran Zymorix](screenshots/detail_restoran.jpeg)
 
 - **Daftar Menu (`/menu`)**:
   - Katalog menyeluruh untuk mengeksplorasi hidangan favorit dari berbagai restoran.
   - Fitur **Pencarian Menu** untuk mencari makanan/minuman spesifik.
 
-  ![Daftar Menu Zymorix](screenshots/menu.png)
+  ![Daftar Menu Zymorix](screenshots/daftar_menu.jpeg)
 
 - **Detail Menu (`/menu/{id}`)**:
   - Tampilan fokus pada satu hidangan, menampilkan harga, rating, kategori, ilustrasi makanan, dan informasi restoran penyedia.
 
-  ![Detail Menu Zymorix](screenshots/detail-menu.png)
+  ![Detail Menu Zymorix](screenshots/detail_menu.jpeg)
 
 ## 🛠️ Teknologi yang Digunakan
 
